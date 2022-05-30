@@ -1,9 +1,8 @@
 # UAS_PAM
-Nama Anggota: 
-
-
-
-            Tamara Dwi Rahmadona (119140196)
+Nama Anggota:Teo Rasyid Prawiranegara  (14117182)
+             Ade Agam Pratama (14117139)
+             Radha candra purnamasy (118140031)
+             Tamara Dwi Rahmadona (119140196)
 Kelas : RB
 
 1.	Nama aplikasi adalah “Make up”
